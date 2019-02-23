@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  23 FEB 2019 09:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  23 FEB 2019 17:12
 entering extended mode
 **"./Informe Muestreo.tex"
 ("Informe Muestreo.tex"
@@ -331,7 +331,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks35
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
-No file "Informe Muestreo".aux.
+("Informe Muestreo.aux"
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
 \openout1 = `"Informe Muestreo.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -460,166 +463,47 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 LaTeX Warning: Characters dropped after `\end{comment}' on input line 131.
 
 
-Overfull \hbox (21.91953pt too wide) in paragraph at lines 142--160
-[][] 
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 166.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 166.
-
-Overfull \hbox (8.2183pt too wide) in paragraph at lines 179--197
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 179--197
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 179--197
-
+Overfull \hbox (36.66447pt too wide) in paragraph at lines 164--184
+ [] 
  []
 
 [1
 
 {C:/Users/KEVINSTEVEN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (8.21445pt too wide) in paragraph at lines 200--216
-[][] 
- []
-
-
-Overfull \hbox (44.58066pt too wide) in paragraph at lines 233--251
-[][] 
- []
-
 [2]
-<FigurasUV/I.pdf, id=19, 1027.84pt x 545.03625pt>
-File: FigurasUV/I.pdf Graphic file (type pdf)
-<use FigurasUV/I.pdf>
-Package pdftex.def Info: FigurasUV/I.pdf  used on input line 277.
-(pdftex.def)             Requested size: 513.91875pt x 272.51746pt.
-
-Overfull \hbox (13.43475pt too wide) in paragraph at lines 277--278
- [][] 
- []
-
-[3 <./FigurasUV/I.pdf>]
-<FigurasUV/nubeind.pdf, id=27, 1027.84pt x 545.03625pt>
-File: FigurasUV/nubeind.pdf Graphic file (type pdf)
-<use FigurasUV/nubeind.pdf>
-Package pdftex.def Info: FigurasUV/nubeind.pdf  used on input line 318.
-(pdftex.def)             Requested size: 513.91875pt x 272.51746pt.
-
-Overfull \hbox (13.43475pt too wide) in paragraph at lines 318--319
- [][] 
- []
-
-[4 <./FigurasUV/nubeind.pdf>]
-<FigurasUV/nubevar.pdf, id=35, 1027.84pt x 545.03625pt>
-File: FigurasUV/nubevar.pdf Graphic file (type pdf)
-<use FigurasUV/nubevar.pdf>
-Package pdftex.def Info: FigurasUV/nubevar.pdf  used on input line 409.
-(pdftex.def)             Requested size: 513.91875pt x 272.51746pt.
-
-Overfull \hbox (13.43475pt too wide) in paragraph at lines 409--410
- [][] 
- []
-
-[5] [6 <./FigurasUV/nubevar.pdf>]
-<FigurasUV/nubegru.pdf, id=45, 1027.84pt x 545.03625pt>
-File: FigurasUV/nubegru.pdf Graphic file (type pdf)
-<use FigurasUV/nubegru.pdf>
-Package pdftex.def Info: FigurasUV/nubegru.pdf  used on input line 465.
-(pdftex.def)             Requested size: 513.91875pt x 272.51746pt.
-
-Overfull \hbox (13.43475pt too wide) in paragraph at lines 465--466
- [][] 
- []
-
-[7 <./FigurasUV/nubegru.pdf>] [8]
-<FigurasUV/RS.pdf, id=63, 1027.84pt x 545.03625pt>
-File: FigurasUV/RS.pdf Graphic file (type pdf)
-<use FigurasUV/RS.pdf>
-Package pdftex.def Info: FigurasUV/RS.pdf  used on input line 527.
-(pdftex.def)             Requested size: 462.52373pt x 245.26405pt.
-<FigurasUV/EP.pdf, id=64, 1027.84pt x 545.03625pt>
-File: FigurasUV/EP.pdf Graphic file (type pdf)
-<use FigurasUV/EP.pdf>
-Package pdftex.def Info: FigurasUV/EP.pdf  used on input line 539.
-(pdftex.def)             Requested size: 513.91875pt x 272.51746pt.
-
-Overfull \hbox (13.43475pt too wide) in paragraph at lines 539--540
- [][] 
- []
-
-[9 <./FigurasUV/RS.pdf> <./FigurasUV/EP.pdf>]
-
-LaTeX Warning: Citation 'AFM' on page 10 undefined on input line 592.
-
-
-LaTeX Warning: Citation 'ggp2' on page 10 undefined on input line 593.
-
-
-LaTeX Warning: Citation 'FE' on page 10 undefined on input line 594.
-
-
-LaTeX Warning: Citation 'FMR' on page 10 undefined on input line 595.
-
-
-LaTeX Warning: Citation 'FShiny' on page 10 undefined on input line 596.
-
-
-LaTeX Warning: Citation 'MMDA' on page 10 undefined on input line 597.
-
-
-LaTeX Warning: Citation 'MFA' on page 10 undefined on input line 598.
-
 No file "Informe Muestreo".bbl.
-[10] ("Informe Muestreo.aux"
+[3] ("Informe Muestreo.aux"
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 5990 strings out of 492946
- 84507 string characters out of 3135510
- 187260 words of memory out of 3000000
- 9746 multiletter control sequences out of 15000+200000
+ 5938 strings out of 492946
+ 83488 string characters out of 3135510
+ 183267 words of memory out of 3000000
+ 9702 multiletter control sequences out of 15000+200000
  18900 words of font info for 57 fonts, out of 3000000 for 9000
  1145 hyphenation exceptions out of 8191
- 43i,8n,40p,854b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
-pi600\ecti0900.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\KEVINSTEVEN\AppDat
-a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\KE
-VINSTEVEN\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.
-pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecrm0700.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
-our/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\
-2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\KEVINSTEVEN\AppDa
-ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\K
-EVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900
-.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmsy7.pfb>
-Output written on "Informe Muestreo.pdf" (10 pages, 198668 bytes).
+ 43i,9n,40p,786b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecti0900.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\
+2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\KEVINSTEVEN\AppDa
+ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\K
+EVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700
+.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec
+/dpi600\eccc1000.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts/pk/lj
+four/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\KEVINSTEVEN\AppD
+ata\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb>
+Output written on "Informe Muestreo.pdf" (3 pages, 135868 bytes).
 PDF statistics:
- 376 PDF objects out of 1000 (max. 8388607)
+ 262 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
